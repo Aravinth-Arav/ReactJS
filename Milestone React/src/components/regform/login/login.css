@@ -1,0 +1,17 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: black;
+}
+.input_log {
+    border-radius: 20px;
+    border:none ;
+}
+.sub_log{
+   width: 30%;
+   border: none;
+   border-radius: 10px;
+}
+.sign{
+    text-decoration: none;
+}
